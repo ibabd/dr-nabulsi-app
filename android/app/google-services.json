@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "182473278770",
+    "project_id": "nabulsidb-3a2f9",
+    "storage_bucket": "nabulsidb-3a2f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182473278770:android:68f2b03c10988899a1432b",
+        "android_client_info": {
+          "package_name": "com.example.dr_rateb_nabulsi_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "182473278770-hnqnv5t83jen1bjiusmg103ldp7ehg29.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dr_rateb_nabulsi_app",
+            "certificate_hash": "c7d4a25474adef8da1fcf71580a0b4d61ed0aac4"
+          }
+        },
+        {
+          "client_id": "182473278770-uf9dqa6vrd6tm05378u2r2csq2pnuo7r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJhPOWTbv6mnT3_qr579w94b5XIpVtfyM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "182473278770-uf9dqa6vrd6tm05378u2r2csq2pnuo7r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
